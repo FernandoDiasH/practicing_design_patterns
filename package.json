@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "observer": "tsx Comportamentais/Observer"
+    "observer": "tsx Comportamentais/Observer",
+    "factory-method":" tsx Criacionais/FactoryMethod"
   },
   "keywords": [],
   "author": "",

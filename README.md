@@ -12,9 +12,10 @@ Se você tiver sugestões ou comentários sobre este projeto, sinta-se à vontad
 
 ## Padrões Criados 
 
+### Criacionais 
+* Factory Method
 ### Comportamentais 
-* Observer 
-
+* Observer
 ## Para utilizar os Padrões
 
 Intalar as depêndencias.
@@ -27,8 +28,11 @@ Para testar um padrão utilize o comando a baixo mais o nome do padrão.
 ```bash
 npm run <padrão escolhido>
 
-#exemplo
+# exemplos craidos 
+
 npm run observer
+
+npm run factory-method
 ```
 
 > :construction: Projeto em construção :construction:
