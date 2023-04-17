@@ -18,7 +18,7 @@ interface EmailProviderInterface{
 }
 
 
-class EmailProvider implements EmailProvider {
+class EmailProvider implements EmailProviderInterface {
 
     sendEmail(data: EmailProps){
         console.log(`Enviando o email para ${data.email}, message: ${data.message}`);
