@@ -14,6 +14,7 @@ Se você tiver sugestões ou comentários sobre este projeto, sinta-se à vontad
 
 ### Criacionais 
 * Factory Method
+* Abstract Factory
 ### Comportamentais 
 * Observer
 ## Para utilizar os Padrões
@@ -30,9 +31,13 @@ npm run <padrão escolhido>
 
 # exemplos craidos 
 
-npm run observer
-
+#Criacionais 
 npm run factory-method
+
+npm run abstract-factory
+
+#Compotamentais
+npm run observer
 ```
 
 > :construction: Projeto em construção :construction:
