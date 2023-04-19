@@ -15,6 +15,9 @@ Se você tiver sugestões ou comentários sobre este projeto, sinta-se à vontad
 ### Criacionais 
 * Factory Method
 * Abstract Factory
+
+### Estruturais
+* Adapter
 ### Comportamentais 
 * Observer
 ## Para utilizar os Padrões
@@ -35,6 +38,10 @@ npm run <padrão escolhido>
 npm run factory-method
 
 npm run abstract-factory
+
+# Estruturais
+
+npm run adapter
 
 #Compotamentais
 npm run observer

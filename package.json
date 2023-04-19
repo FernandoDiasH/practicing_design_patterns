@@ -6,7 +6,8 @@
   "scripts": {
     "observer": "tsx Comportamentais/Observer",
     "factory-method":" tsx Criacionais/FactoryMethod",
-    "abstract-factory":" tsx Criacionais/AbstractFactory"
+    "abstract-factory":" tsx Criacionais/AbstractFactory",
+    "adapter":"tsx Estruturais/Adapter"
   },
   "keywords": [],
   "author": "",
