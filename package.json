@@ -7,7 +7,8 @@
     "observer": "tsx Comportamentais/Observer",
     "factory-method":" tsx Criacionais/FactoryMethod",
     "abstract-factory":" tsx Criacionais/AbstractFactory",
-    "adapter":"tsx Estruturais/Adapter"
+    "adapter":"tsx Estruturais/Adapter",
+    "decorator":"tsx Estruturais/Decorator"
   },
   "keywords": [],
   "author": "",

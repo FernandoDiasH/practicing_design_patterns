@@ -43,6 +43,8 @@ npm run abstract-factory
 
 npm run adapter
 
+npm run decorator
+
 #Compotamentais
 npm run observer
 ```
