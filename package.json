@@ -8,7 +8,8 @@
     "factory-method":" tsx Criacionais/FactoryMethod",
     "abstract-factory":" tsx Criacionais/AbstractFactory",
     "adapter":"tsx Estruturais/Adapter",
-    "decorator":"tsx Estruturais/Decorator"
+    "decorator":"tsx Estruturais/Decorator",
+    "chain":"tsx Comportamentais/ChainOfResponsibility"
   },
   "keywords": [],
   "author": "",

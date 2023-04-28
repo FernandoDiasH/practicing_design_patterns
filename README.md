@@ -18,8 +18,10 @@ Se você tiver sugestões ou comentários sobre este projeto, sinta-se à vontad
 
 ### Estruturais
 * Adapter
+* Decorator
 ### Comportamentais 
 * Observer
+* Chain
 ## Para utilizar os Padrões
 
 Intalar as depêndencias.
@@ -47,6 +49,8 @@ npm run decorator
 
 #Compotamentais
 npm run observer
+
+npm run chain
 ```
 
 > :construction: Projeto em construção :construction:
