@@ -15,7 +15,7 @@ Se você tiver sugestões ou comentários sobre este projeto, sinta-se à vontad
 ### Criacionais 
 * Factory Method
 * Abstract Factory
-
+* Builder
 ### Estruturais
 * Adapter
 * Decorator
@@ -35,11 +35,13 @@ Para testar um padrão utilize o comando a baixo mais o nome do padrão.
 npm run <padrão escolhido>
 
 # exemplos craidos 
-
 #Criacionais 
+
 npm run factory-method
 
 npm run abstract-factory
+
+npm run builder
 
 # Estruturais
 
@@ -48,6 +50,7 @@ npm run adapter
 npm run decorator
 
 #Compotamentais
+
 npm run observer
 
 npm run chain

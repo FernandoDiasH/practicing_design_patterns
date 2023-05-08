@@ -9,7 +9,8 @@
     "abstract-factory":" tsx Criacionais/AbstractFactory",
     "adapter":"tsx Estruturais/Adapter",
     "decorator":"tsx Estruturais/Decorator",
-    "chain":"tsx Comportamentais/ChainOfResponsibility"
+    "chain":"tsx Comportamentais/ChainOfResponsibility",
+    "builder": "tsx Criacionais/Builder"
   },
   "keywords": [],
   "author": "",
